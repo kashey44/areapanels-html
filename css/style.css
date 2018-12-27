@@ -32,7 +32,7 @@ a:hover{
   height: auto !important;
   height: 100%;  
 }
-.main-container section.header{
+.main-container section.head{
 	color: #fff;
 	font-size: 14px;
 	background: url('../img/header-bg.jpg') center;
@@ -254,7 +254,7 @@ table {
 .mycity .city-name{
 	font-size: 18px;
 }
-section.header a{
+section.head a{
 	color: #fff;
 }
 section h1, div.title{
